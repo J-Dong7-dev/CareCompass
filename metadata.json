@@ -1,0 +1,6 @@
+{
+  "name": "Community Health Resource Directory",
+  "description": "AI-powered community resource locator to redirect non-emergency needs from the ED to local mental health and social support services safely.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
